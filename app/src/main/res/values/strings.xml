@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_loginpageforfarmers">Loginpageforfarmers</string>
+    <string name="title_activity_vegetables">vegetables</string>
+    <string name="title_activity_vegetables2">vegetables2</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_loginpageforshop">Loginpageforshop</string>
+    <string name="title_activity_database2">database2</string>
+</resources>
